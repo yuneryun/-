@@ -1,0 +1,8 @@
+{
+  "appId": "com.analogconverter.app",
+  "appName": "模拟量转换器",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+} 
